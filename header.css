@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 100px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
